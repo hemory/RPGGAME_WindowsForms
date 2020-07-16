@@ -1,0 +1,9 @@
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\obj\Debug\netcoreapp3.1\Engine.csprojAssemblyReference.cache
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\hphif\source\repos\WindowsFormsApp1\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
